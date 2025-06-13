@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="15cm" height="37cm" viewBox="419 91 291 725" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="534.428" y="92.083" width="59.8" height="45.0066"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="534.428" y="92.083" width="59.8" height="45.0066"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="564.328" y="119.386">
+      <tspan x="564.328" y="119.386">START</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="420.232" y="234.917" width="288.2" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="420.232" y="234.917" width="288.2" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="564.332" y="258.717">
+      <tspan x="564.332" y="258.717">ZUFALLSZAHLENGENERATOR_INITIALISIEREN</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="436.075" y="401" width="255.85" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="436.075" y="401" width="255.85" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="564" y="424.8">
+      <tspan x="564" y="424.8">AUSGABE: ZUFALLSZAHLENGENERATOR </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="485.35" y="535" width="159.3" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="485.35" y="535" width="159.3" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="565" y="558.8">
+      <tspan x="565" y="558.8">ERZEUGE ZUFALLSZAHL</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="490.843" y="667.834" width="153.8" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="490.843" y="667.834" width="153.8" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="567.743" y="691.634">
+      <tspan x="567.743" y="691.634">GIB ZUFALLSZAHL AUS</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="542.175" y="777" width="53.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="542.175" y="777" width="53.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="569" y="800.8">
+      <tspan x="569" y="800.8">ENDE</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="564.328" y1="137.09" x2="564.332" y2="230.445"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="559.331,222.681 564.332,232.681 569.331,222.681 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="564.332" y1="272.917" x2="564.012" y2="396.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="559.032,388.751 564.006,398.764 569.032,388.777 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="564" y1="439" x2="564.953" y2="530.528"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="559.873,522.817 564.977,532.764 569.872,522.713 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="565" y1="573" x2="567.614" y2="663.364"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="562.391,655.748 567.678,665.599 572.387,655.458 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="567.743" y1="705.834" x2="568.921" y2="772.529"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="563.785,764.854 568.961,774.764 573.783,764.678 "/>
+  </g>
+</svg>
